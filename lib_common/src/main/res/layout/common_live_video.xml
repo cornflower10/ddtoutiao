@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:visibility="visible">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="?android:attr/selectableItemBackground"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:id="@+id/layout_live"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DIMEN_200DP">
+
+            <ImageView
+                android:id="@+id/layout_live_player"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/DIMEN_200DP"
+                />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:background="@drawable/common_shape_corners_solid_red2_90"
+                android:layout_centerVertical="true"
+                android:paddingLeft="@dimen/DIMEN_23DP"
+                android:paddingRight="@dimen/DIMEN_15DP"
+                android:paddingTop="@dimen/DIMEN_6DP"
+                android:paddingBottom="@dimen/DIMEN_6DP"
+                android:layout_centerHorizontal="true">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/DIMEN_14DP"
+                    android:paddingRight="@dimen/DIMEN_3DP"
+
+                    android:text="直播中" />
+                <com.yanxuwen.lib_common.widget.liveAnim.LiveLineScaleView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
+                </LinearLayout>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_live_author"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DIMEN_40DP"
+            android:layout_below="@id/layout_live"
+            android:paddingLeft="@dimen/DIMEN_15DP"
+            android:paddingRight="@dimen/DIMEN_15DP">
+
+            <ImageView
+                android:id="@+id/tv_live_more"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/common_ic_more" />
+
+
+            <TextView
+                android:id="@+id/tv_live_follow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/DIMEN_25DP"
+                android:layout_toLeftOf="@id/tv_live_more"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/black"
+                android:textSize="@dimen/common_article_author"
+                tools:text="关注" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/tv_live_follow"
+
+                >
+
+                <TextView
+                    android:id="@+id/tv_live_author"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/common_article_author"
+                    tools:text="迷彩青春" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+        <cn.carbs.android.avatarimageview.library.AvatarImageView
+            android:id="@+id/iv_live_headbg"
+            android:layout_width="@dimen/DIMEN_48DP"
+            android:layout_height="@dimen/DIMEN_48DP"
+            android:layout_alignBottom="@id/layout_live_author"
+            android:layout_marginBottom="@dimen/DIMEN_28DP"
+            android:layout_marginLeft="@dimen/DIMEN_13DP" />
+
+        <cn.carbs.android.avatarimageview.library.AvatarImageView
+            android:id="@+id/iv_live_head"
+            android:layout_width="@dimen/DIMEN_44DP"
+            android:layout_height="@dimen/DIMEN_44DP"
+            android:layout_alignBottom="@id/layout_live_author"
+            android:layout_marginBottom="@dimen/DIMEN_30DP"
+            android:layout_marginLeft="@dimen/DIMEN_15DP"
+            tools:src="@mipmap/icon" />
+    </RelativeLayout>
+</RelativeLayout>

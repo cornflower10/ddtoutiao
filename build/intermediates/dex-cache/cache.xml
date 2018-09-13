@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/498ef30c38d44424ee4d8060871d39f52e3ff6e9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_9b546d17fe955ee27f1eca9f9de213eb679a4274/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/bfa313f7f9ace3f77e84ff68c638ac6f7bf37015/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="58024146a6a83262c7a99140bc6081610865af5c">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_74718389393302c9c9d610edf455161db01ec729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/lib_common/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="608d6dd0ab3e7e8d38b41d45a369a27dc47b409b">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_a41154de904a569b2e9ad9cd63682e8040bfb2bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/5bab047646fca8dfef3c502ba1cccec0b2f015b0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01a53e6dc3ad765fc98f9bbff0f8def78ecca2c6">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_d755ce63af470663ad00b26d2e67a2e58a074cdd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/9e8ef9a864a7dfabcd7932e0ba395a9a6de22f9b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_f897971af66d2f39903b36033ef4f3439091c8b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/retrofit-2.1.0_99b5e1b4ce19200e31df6e3e98757ae9d93edf57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/962d7aba53d9c52421e94c8a991285b97c0ab885/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_ae483f18759a4ed82de80fb8defad5c19473b53e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/3362bb43a62a7c1d2f5c70a84cfdd3ab1f22fbc7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="be473b94d5b7166861cef7a5c18b188c42af79f0">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_7e499b4ebabc8231fd7b5ae0eb9cfc77b0160404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/825d496c5075b57b41486bdb652be2f7cb4c7b87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="798bae4850d66dc4f82a2782f1c91991e9dc0c39">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_8071cc6a9b58975a1e5c5d94c4af46aedf6ee1ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/aa801c3f01cd89d75487c8c985a8ac82cd44dd37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="254f10f064e2a593f475227f5f6d7aa79b24a71b">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_a793ae3c9e881690f145e2a32d4ad3350a2d20de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/521ec8798ec3f35157f930d9ac2c63bd2e37648e/output/jars/libs/swipeLayout.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b77daa9e4be2bcd13f6917ae879a79358e1071f1">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/swipeLayout_087f98234d192976d0ad4b75b5b5a549fb2f23ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/butterknife-annotations-8.8.1_495509ebaf9dc6fd8e6c2a047f51dbab697e42d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/16c97f6f936c5b9fa9be6d6fa25bacc54a005bd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6009bcfb7c2f9cf0633b64e326ccddf544709b45">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_aa61bbd18e4996172ea2ca821e2d9827b5489928/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/Module_Bottomtab1/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bcf5851858de1da560e864e485945ae318538aca">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_44309c53833693701e652db5c54f338e2a422e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/b7e5045a80e84b6a8ab35053387ef5ef52fb186d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f344e7b27171e78570f76f22d3ae5a62391f6462">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_13625c4cb2570ce7f3927adfd15fc5a241744b98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/7b8664a30d31cc78e2b732af23cb0381dc42f1d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3cfc25b617677ac2712d7555c3c3bedf451b6b9">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_1be89c738abca37fe87cb5d8a32286ea241de3c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/6643d24e98e68eacb16032ac204fc0a83783fa48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_fcce13c4240803cd6201b56068e3dbd6e777a0d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/c16d0772077645e01ac185feaf80d8f38e92e140/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_10d531c2af0b34e2ba2f338bf1be2f55d5dc2bae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.0/db09a97f4f0db8892c1a0111a4b966f97920d082/support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/support-annotations-26.0.0_c634dc95c023bb8304fed8d5f7cf43b8449e24c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/converter-gson-2.1.0_62207c4656b0b0c2eca2d4305f179fa445f5b4c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/0eaf5714c9433c66125a37dcffb69f0b0034476b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d69444102ef9ffc0388fd027d3fe44e87b43a1f0">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_1117bd9277d54b5029dcacf5e715ca429630b676/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.1.2/a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0/logging-interceptor-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/logging-interceptor-3.1.2_1bfc52a5c86add43da6e4ac822127519930aca17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/Module_Bottomtab4/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f20a59c20d15ab09ba7a1157db5911baab262531">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_03b8e5eb8f3f3d70db0dad630d29c563621d3dd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/c97654d5204d100503b315c7c697a49384de2935/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="24a746ed49aea913f5f009715c49e01a8d758e3f">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_b3478800909bef458e40884b1b31d1b1ebd37927/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/c0806f3f1cc4bed36e0e34c4aaa9671b2b8efedd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1bc73f5e180665318945a7a54d3d6003f4ee9c19">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_b30d35e5790d0ad08f464af8aaf5ca3d7d6042b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/Module_Login/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="169627926a1a612201dad0470e07309abe7b3147">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_bd4f4eac176289a170f1d235019ae76b0de97e36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/f8c1b4a24e6df4d436dd7ff3dba6213381d80ab9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f608e34c0dca5157b558742b18730e17d8e91f63">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_1b013c85bce81bf726d9fd08c7168e689acffb90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/02e97fa52299d7bd516d8577c659d647d4c71700/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_b45eb54c188c7f0fa14fd9ad37785e930f26469e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/78584d91d021d23f05ab4f5bd3ef4ef96878277a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f4bf876b33bb1141754aef396f0a616333d58cf8">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_b2d50c5824e1c63c17e9311f0dcc58c8df86ca82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/7c422007b6a22b0b58ecddf971ce6daa9f8e41c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_5599fb3afea19d3a9882056fe7f7e147c093ec07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.github.SilenceDut/jpinyin/v1.0/cee108c24e97716026fa6e17bd2facd802e5981d/jpinyin-v1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cee108c24e97716026fa6e17bd2facd802e5981d">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/jpinyin-v1.0_028b996f598e7b603f700400f9ac55ffb7049784/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/74b9f9da73214342e0f67e4ad868ea3f02730efe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_49827fb29849e4162d65c7ebf78478364431028f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/f4ac3a3a56504f804dcd09fd92f213354ee94a97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f37d22a2fe2c3524aaa926e3bd57c84a2701256d">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_0660e9c57edefda8d459f69db435345e04a4a562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/Module_Bottomtab3/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d58c101179c77cf8744ee8060b8a95e673ed85e">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_616064fc5a57d02986d4787d11206eebe61d1bbd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.6.1/2f82d433b9dae134a9b32039a6b5b38abe8a1c46/disklrucache-4.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2f82d433b9dae134a9b32039a6b5b38abe8a1c46">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/disklrucache-4.6.1_6258c426094174f25c3ae54ba816959e5e39b9f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/20f57da49f072e017c522dab114e6fbf3bb16384/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="663246efbd10b60ba71e1658d961b704b2814f3f">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_d369764c509419aaf848f7bf1a45fbd52c01b703/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/cdbcd2d0aec64487ab6f716522327e4b6fee1d40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="40a1445ca943bb901c83412b8277cae08908be5c">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_82ff71d9c0bf2e66416835a187ceffca6a5a1e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/d7b545dddb97fc3aecfcb1bb6619175c52342b1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3fd686ef7e8e85f71a5c5a5dd3103a2af6338ffc">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_c8db02ff921596fe11418bf7c4b50e02ca205ef9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/426fc5ebc02738ef88fcae1445e47aeda6866027/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4e55e25a0a3e509ebfa4126e5027993ea6d425f7">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_df634963016804a53f39dcda2b994a39849f3d23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/c009ea76906371b51c68942194264d396e21e28a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efd65f0c9fd58d4e39e115f3e22f71f0f8e78ab7">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_397b66e721e416e91a881fe69f32d1b3701d9b53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/93adc81922fc5bdfe1d7640045b3879aec6ebd9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_03927393270f8d4f71e67f9c793659a35429850d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/6f27efb486da52373b9a509554b10bd1f93805d9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7bda42289496a824fac790960a80810bc7411acb">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_e2d468985e22e1ba6ead1bcc0fa1807e88e908fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.0/25eb440d6eeb9fc60299121020fe726eb2100d03/kotlin-stdlib-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="25eb440d6eeb9fc60299121020fe726eb2100d03">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/kotlin-stdlib-1.2.0_45718c960e45cd28114136c795e95368c8b9749a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/9f97bc2d8b22869007971b727895f680c0d060f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_73e3b9d08354601a6a38bfabd2d866cd102bf5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/5d8dff01c1cd3343c1e053872d574e2bb99e5755/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_92965125a476a0112aee974524b57e850fdf0202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/rxjava-1.1.5_e596881aa617ed2e3979c9e424f4e7e363c4ca18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/okhttp-3.3.0_71303837bd320631f0842d46403b00c614ec93ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/eee488b94802ec495915975a78aaa6493192126e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6e70b1353fde0321dc95c72897a6b7a62f7c8ece">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_6d54f4aadf6e55f5a126cd5ea30d13ddd5b91cc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/878176e1095dbbdc7dd323566809da8109f42143/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="32636dfc1db28a118151b9566da35a6592d9dbbd">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_6385a85a03ecd8fd2b040930211c96802c794eb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/c9cb12a3efc264e02a0aa1c721b851cf129082b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc9c68aa8e850407de6231285bfd776aad227517">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_53bc5d32710fa36711eabf540de4f143e5006672/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.alibaba/arouter-annotation/1.0.4/1a052775986931f733338255dd73829f0ecd10d/arouter-annotation-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01a052775986931f733338255dd73829f0ecd10d">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/arouter-annotation-1.0.4_e58c4946a9f1eb95e85f084a4c49c9a28e21b482/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/gson-2.7_786cc4136effd905e4bb9f797e86e530d3be98cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/8ade72927f58794b6d54b4bbde529a5798d40cf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_edfdce007ce902f2319eb058eb602540c1a22aa1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/c009ea76906371b51c68942194264d396e21e28a/output/jars/libs/microlog4android-1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2afbf874335fc293768ca8e9621bfaf7753b6e6e">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/microlog4android-1.1_0c4edc84e813290a6c1ded4b5f22cfed9c6a1370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/6431296a6afc9c17fbb2420748a35fc82446ffdb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_a40c083fb4c3f70c75659d43c80a50607271b44c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/f83dd40969c7bf34eb7f5b6c348803d92d4ca25c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9ca8a321d9d66727f6017b716c0615fa6aa21d96">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_e20bc0f7cbef8cafeabeee8e6da26983128dd34c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/b35281cf4ec0a4485725adcc978feb4e81a80297/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="949bf74b5eda9f5151b54c2202acad81bfb7e59f">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_e911a6cbb838fc9fe3e7b8ff542af654d22ae109/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/ddd12651cb5fb4eb7cb2629f94f2bde9e77cff91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd6a954de38a79d26bb3b369ae69753fa3a175fb">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_d59719d11a20e1881dcdebf360da3b1fb05ce0f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/533a8bacc432ab1a3740b51859feda72dbf2328a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d0f8a617bf04cffb8cdc3f76a8ee049559e49a40">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_f139407e0e5782647b9bac4ace155cc8a350c5b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/bc93c0ddc1880f47482f497366740f6ef248d154/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_4da6d7bba4f8cbcc6a5e7e80ac540b0f0ad09a6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.6.1/278bafb890704b66a1d6a8a98d0790f940aa5a22/annotations-4.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="278bafb890704b66a1d6a8a98d0790f940aa5a22">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/annotations-4.6.1_e84203fe732a4b3e63011d191f8b59c359c47df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/a82e7d6be0d0179a9f15eb98754a688e21f71b99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5d8f6794cf1eb58601c26d1ee5989ffbfe4237c5">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_1b9ffc3a382257f32c2ba392038e3ae0faaf1b09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/adapter-rxjava-2.1.0_060a39081a950f7df945d5971750295de076699a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/816ab345c1230f1339e601cb870dafd73b3651a1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_3cbd09e50cd52fd77d6d83ab906d1ff0372283bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/96eda332310d8cc4598572f536394d5e6a2db3a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fe193c63a3f5679bf28273e87d85a24bcdc0b5c4">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_27d973f742a569ec12a1a2e0b001ae26357d95d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/Module_Bottomtab0/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="feda42e2055e5052c8663a8a51eb5c52b1fef7bf">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_3445c54b17514067eef74fb1ede05bae1f034f32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/521ec8798ec3f35157f930d9ac2c63bd2e37648e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d54de3eb19507fa151f8d5af9ec4e020a0577d61">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_c23cfcb413686bc6452dedd3de86e6c171de0464/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/Module_Bottomtab2/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="28c94abc01285705213b943cdf1a9e887cc501c0">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/4/classes_c7bc703326a58ca440c1314337c36eda91931338/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/20aba9a49443fd5ae1a01169637c2281abd67a64/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_0f39390fa46b719a6fb8c0087f43012e9768fa40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/okio-1.8.0_bbaa3f4a3aa4fbb91ef6c5b5dde8be4b1beacc2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/libs/shy_io.rong.push.core.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="265b5686891a87852c282fd867b8402885c7424a">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/2/shy_io.rong.push.core_5288647cf431d5f7c01f248f9003d292cb0747dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/8b141fdf4c365be1fe0421c594c8889c31a090e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_4c3e97242f2c36eb42d329f91a05cc632cc39674/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/5473d233dcd433c84102169e2c6dd6576b9fbc90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="17c3c8c967a101c2c0bcb850cdc68068166e577e">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_7b3e065f40ddd848875581eecb7eaea96ff8c382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/5ee93be3249b10456c24aeef5d28310d0edf7b22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f12b73a85d00136c8180f7763334beb9cb3f4d49">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_edb3032c2aa4fe995b008da153ea8922856fe077/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-common/0.8.2/8974e9997afe8701e4207a315d4aa9bf7f05a8f4/anko-common-0.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8974e9997afe8701e4207a315d4aa9bf7f05a8f4">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/anko-common-0.8.2_92027d84485b2aa63fb0d16c7692d9cb379fa1e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.android/build-cache/4cd3e9d2f3c53f1539ba340a69c48e385a7be1e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="03ebbd941ee173b997d517c023d57bf0fc96929d">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/classes_63c54b1d5c2643424aedfd87e36b72ee0d28d2ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiejingbao/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/xiejingbao/cornflower/android_project/toutaio/toutiao/toutiao/app/build/intermediates/transforms/dex/toutiao/debug/folders/1000/10/annotations-13.0_204b34e40679cc543300b9e722847446ff7a1c15/classes.dex" />
+    </item>
+
+</items>
